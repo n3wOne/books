@@ -1,0 +1,49 @@
+[{
+  "id": "1",
+  "book": "book_name",
+  "author": "Донцова",
+  "genre": "Детективы"
+},
+{
+  "id": "2",
+  "book": "book_name2",
+  "author": "Валентин Пикуль",
+  "genre": "История"
+},
+{
+  "id": "3",
+  "book": "book_name3",
+  "author": "Пушкин",
+  "genre": "Поэзия"
+},
+{
+  "id": "4",
+  "book": "book_name4",
+  "author": "Василий Ключевский",
+  "genre": "Романы"
+},
+{
+  "id": "5",
+  "book": "book_name5",
+  "author": "Николай Карамзин",
+  "genre": "Романы"
+},
+{
+  "id": "6",
+  "book": "book_name6",
+  "author": "Николай Карамзин",
+  "genre": "История"
+},
+{
+  "id": "7",
+  "book": "book_name7",
+  "author": "Василий Ключевский",
+  "genre": "История"
+},
+{
+  "id": "8",
+  "book": "book_name8",
+  "author": "Василий Ключевский",
+  "genre": "История"
+}
+]
